@@ -11,7 +11,7 @@
       "sha256": "c18b34b84024a9f93eb02bbbad9f902f423e132d3325e3c5e6499925a234f3a5",
       "tamanho": 75281465,
       "obrigatoria": false,
-      "exigeScriptBanco": false,
+      "exigeScriptBanco": true,
       "notas": "Configuração no usuário para não abrir tela ao vender produto de restaurante"
     }
   }
